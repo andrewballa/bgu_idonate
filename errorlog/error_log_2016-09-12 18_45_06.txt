@@ -1,0 +1,22 @@
+INFUSIONSOFT API ERROR MESSAGE: 2016-09-12 18:45:06
+[InvalidKey]Invalid Key
+
+DataService.query
+
+array (
+  0 => '1fb3245bda5f2517cf678c1cf28946a1',
+  1 => 'Contact',
+  2 => 10,
+  3 => 0,
+  4 => 
+  array (
+    'Id' => '%',
+  ),
+  5 => 
+  array (
+    0 => 'Id',
+    1 => 'FirstName',
+    2 => 'LastName',
+    3 => 'OwnerID',
+  ),
+)
